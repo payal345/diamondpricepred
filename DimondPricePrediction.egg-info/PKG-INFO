@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: DimondPricePrediction
+Version: 0.0.1
+Author: Payal Shendkar
+Author-email: payalshendkar2004@gmail.com
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: scikit-learn
